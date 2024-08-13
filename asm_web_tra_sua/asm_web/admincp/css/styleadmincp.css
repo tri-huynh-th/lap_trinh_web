@@ -1,0 +1,153 @@
+.wrapper {
+  /* border: 1px solid black; */
+  height: auto;
+  width: 90%;
+  margin: 0 auto;
+}
+/* header */
+#header {
+  background-image: url("../../images/banner.jpg");
+  border: 1px solid black;
+  height: 200px;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+/* menu */
+ul.admincp-list {
+  padding: 0;
+  margin: 0 auto;
+  width: 50%;
+  list-style: none;
+}
+ul.admincp-list li {
+  float: left;
+  margin: 5px;
+}
+ul.admincp-list li a {
+  text-decoration: none;
+}
+ul.admincp-list li a:hover {
+  color: yellow;
+  background-color: black;
+}
+.clear {
+  clear: both;
+}
+/* main */
+/* danhmuc */
+.title_lietke_dm {
+  background-color: gray;
+  color: yellow;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: cursive;
+}
+.titile_them_dm {
+  background-color: gray;
+  color: yellow;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: cursive;
+}
+.title_sua_dm {
+  background-color: gray;
+  color: yellow;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: cursive;
+}
+/* sanpham */
+.title_lietke_sp {
+  background-color: gray;
+  color: yellow;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: cursive;
+}
+.title_them_sp {
+  background-color: gray;
+  color: yellow;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: cursive;
+}
+.title_sua_sp {
+  background-color: gray;
+  color: yellow;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: cursive;
+}
+/* donhang */
+.title_lietke_dh {
+  background-color: gray;
+  color: yellow;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: cursive;
+}
+.title_xemdh {
+  background-color: gray;
+  color: yellow;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: cursive;
+}
+/* footer */
+#footer {
+  height: 150px;
+  width: 100%;
+  background-color: gray;
+  color: yellow;
+}
+
+.logo {
+  padding: 0;
+  margin: 0;
+  font-family: cursive;
+  text-align: center;
+  font-size: 30px;
+}
+
+.lienhe {
+  width: 20%;
+  float: left;
+  margin-left: 390px;
+  margin-bottom: 10px;
+}
+
+.copy {
+  float: left;
+  font-family: cursive;
+  width: 20%;
+  margin-left: 160px;
+}
+
+.fa-facebook:before {
+  content: "\f09a";
+  font-size: larger;
+  padding: 10px;
+  color: black;
+}
+.fa-instagram:before {
+  content: "\f16d";
+  font-size: larger;
+  padding: 10px;
+  color: black;
+}
+.fa-envelope:before {
+  content: "\f0e0";
+  font-size: larger;
+  padding: 10px;
+  color: black;
+}
+.fa-phone:before {
+  content: "\f095";
+  font-size: larger;
+  padding: 10px;
+  color: black;
+}
+.clear {
+  clear: both;
+}
